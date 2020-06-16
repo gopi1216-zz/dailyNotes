@@ -1,7 +1,4 @@
-
-
-> BEM
-> Written with [StackEdit](https://stackedit.io/).
+# Daily JS Notes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyMTY2MTEyXX0=
+eyJoaXN0b3J5IjpbMTM2NTM4NjU5MCwzMDIxNjYxMTJdfQ==
 -->
