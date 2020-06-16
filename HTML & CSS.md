@@ -1,11 +1,11 @@
 # Daily HTML and CSS Notes
 
-* ### Open modal in Bootstrap :
-    $('#modalId').modal(show);
+## Open modal in Bootstrap :
+ $('#modalId').modal(show);
 
 ***
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTE5OTk5ODcyNzYs
-Mzc3NTcyMDg1LC01NDEzOTk2MTUsNjUzMjc1NjExXX0=
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTY3OTAwNzk1OSwz
+Nzc1NzIwODUsLTU0MTM5OTYxNSw2NTMyNzU2MTFdfQ==
 -->
