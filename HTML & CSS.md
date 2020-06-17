@@ -34,11 +34,35 @@ Before Separating the Structure and Skin
   background: linear-gradient(#ccc, #222);
   box-shadow: rgba(0, 0, 0, .5) 2px 2px 5px;
 }
+
+After Separating the Structure and Skin:
+
+.button {
+  width: 200px;
+  height: 50px;
+}
+
+.box {
+  width: 400px;
+  overflow: hidden;
+}
+
+.widget {
+  width: 500px;
+  min-height: 200px;
+  overflow: auto;
+}
+
+.skin {
+  border: solid 1px #ccc;
+  background: linear-gradient(#ccc, #222);
+  box-shadow: rgba(0, 0, 0, .5) 2px 2px 5px;
+}
 ```
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxOTQxODY5ODE5LC0xMzg4MDM5
+BnZm1cbiIsImhpc3RvcnkiOlsxMzA3OTM4MDM0LC0xMzg4MDM5
 MzMsLTIwNzM2NjUzMjMsLTQ0MTEzODQ1MCwxNjQ2NTg1MDI0LC
 0xNzI4ODE5MTkzLC0xODcxNTkyMTQ0XX0=
 -->
