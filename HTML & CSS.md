@@ -7,6 +7,7 @@ The purpose of **OOCSS** is to encourage code reuse, ultimately, faster and more
 **Example 1:**
 ```css
 Before Separating the Structure and Skin
+
 .button {
   width: 200px;
   height: 50px;
@@ -122,8 +123,8 @@ h3 {
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMzk5OTY3MzE1LC04MTAyMDU0
-MjEsLTYzNzc5Mzc1OSwtMTM4ODAzOTMzLC0yMDczNjY1MzIzLC
-00NDExMzg0NTAsMTY0NjU4NTAyNCwtMTcyODgxOTE5MywtMTg3
-MTU5MjE0NF19
+BnZm1cbiIsImhpc3RvcnkiOlsxMjMyNzU5ODA5LDEzOTk5Njcz
+MTUsLTgxMDIwNTQyMSwtNjM3NzkzNzU5LC0xMzg4MDM5MzMsLT
+IwNzM2NjUzMjMsLTQ0MTEzODQ1MCwxNjQ2NTg1MDI0LC0xNzI4
+ODE5MTkzLC0xODcxNTkyMTQ0XX0=
 -->
