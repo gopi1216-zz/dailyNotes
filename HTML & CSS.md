@@ -100,11 +100,11 @@ h3 {
 ## BEM (Block, Element and Modifier)
 - **Block**: Block are made up of multiple elements / sub blocks and block name shoud be unique throughout the project ( like header, main, footer, aside etc ).
 - **Element**: Element represents simple html elements and element names should be unique within block ( like header-logo, header-contact, header-emain etc).
-- **Modifier**: Modifier represents the different state of an Element.
+- **Modifier**: Modifier represents the different state of an Element (like normal background color and onhover background color).
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxOTk1NjkwMTk1LC04MTAyMDU0
-MjEsLTYzNzc5Mzc1OSwtMTM4ODAzOTMzLC0yMDczNjY1MzIzLC
-00NDExMzg0NTAsMTY0NjU4NTAyNCwtMTcyODgxOTE5MywtMTg3
-MTU5MjE0NF19
+BnZm1cbiIsImhpc3RvcnkiOls5OTUxODE1NDQsLTgxMDIwNTQy
+MSwtNjM3NzkzNzU5LC0xMzg4MDM5MzMsLTIwNzM2NjUzMjMsLT
+Q0MTEzODQ1MCwxNjQ2NTg1MDI0LC0xNzI4ODE5MTkzLC0xODcx
+NTkyMTQ0XX0=
 -->
