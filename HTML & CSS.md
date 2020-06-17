@@ -19,11 +19,11 @@ ABEM's syntax:
 ```css
 [a/m/o]-blockName__elementName -modifierName
 ```
-Atoms(a) :  represents the simple components that contains single element like button, form input etc.
-Molecules (m) represents the groups of elements or components like form group contains label and input field.
-'O' stands for Organism which represents large complex components made up of many molecules and atom components.
+Atoms (a):  represents the simple components that contains single element like button, form input etc.
+Molecules (m): represents the groups of elements or components like form group contains label and input field.
+Organisms (o): represents large complex components made up of many molecules and atom components.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjA5MzgzNTMxOCwtMTg3MTU5
-MjE0NF19
+BnZm1cbiIsImhpc3RvcnkiOlstMjg4MDA5MDE5LC0xODcxNTky
+MTQ0XX0=
 -->
