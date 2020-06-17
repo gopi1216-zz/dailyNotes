@@ -98,10 +98,11 @@ h3 {
 
 
 ## BEM (Block, Element and Modifier)
-- **Block** : name shoud be unique throughout the project and  
+- **Block**: Block are made up of multiple elements / sub blocks and block name shoud be unique throughout the project ( like header, main, footer, aside etc ).
+- **Element
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTgxODA5MTE2OSwtODEwMjA1
+BnZm1cbiIsImhpc3RvcnkiOlstMTEwNzkxMjAwMCwtODEwMjA1
 NDIxLC02Mzc3OTM3NTksLTEzODgwMzkzMywtMjA3MzY2NTMyMy
 wtNDQxMTM4NDUwLDE2NDY1ODUwMjQsLTE3Mjg4MTkxOTMsLTE4
 NzE1OTIxNDRdfQ==
