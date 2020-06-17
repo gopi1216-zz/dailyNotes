@@ -90,7 +90,7 @@ h3 {
   font-size: 2em;
 }
 ```
-**Guidelines to implement OOCSS :**
+**Guidelines to implement OOCSS:**
 - Avoid the descendent selector ( don't use .sidebar h3 as default style ).
 - Avoid ID's as selectors.
 - Avoid attaching classes to elements in your stylesheet.
@@ -100,7 +100,8 @@ h3 {
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls1NTAyNTE3NDIsLTYzNzc5Mzc1
-OSwtMTM4ODAzOTMzLC0yMDczNjY1MzIzLC00NDExMzg0NTAsMT
-Y0NjU4NTAyNCwtMTcyODgxOTE5MywtMTg3MTU5MjE0NF19
+BnZm1cbiIsImhpc3RvcnkiOlstMTY3NTc1OTQxOCwtNjM3Nzkz
+NzU5LC0xMzg4MDM5MzMsLTIwNzM2NjUzMjMsLTQ0MTEzODQ1MC
+wxNjQ2NTg1MDI0LC0xNzI4ODE5MTkzLC0xODcxNTkyMTQ0XX0=
+
 -->
