@@ -115,13 +115,15 @@ h3 {
 ```
 - **Modifier**: Modifier represents the different state of an Element (like normal background color and onhover background color).
 ```css
-.header.header-dark{} or .header.dark{}
-.btn.btn-primary{} or 
+.header-dark{}
+.footer-dark{}
+.btn-primary{} 
 ```
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTk1NjQwNDcwMSwtODEwMjA1
-NDIxLC02Mzc3OTM3NTksLTEzODgwMzkzMywtMjA3MzY2NTMyMy
-wtNDQxMTM4NDUwLDE2NDY1ODUwMjQsLTE3Mjg4MTkxOTMsLTE4
-NzE1OTIxNDRdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxMzk5OTY3MzE1LC04MTAyMDU0
+MjEsLTYzNzc5Mzc1OSwtMTM4ODAzOTMzLC0yMDczNjY1MzIzLC
+00NDExMzg0NTAsMTY0NjU4NTAyNCwtMTcyODgxOTE5MywtMTg3
+MTU5MjE0NF19
 -->
