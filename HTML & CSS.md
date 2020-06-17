@@ -80,6 +80,7 @@ Before Separating Containers and Content
 }
 
 After Separating Containers and Content (Short hand property used)
+
 h3 {
   font: 1.5em/1 Arial, Helvetica, sans-serif;
   color: #777;
@@ -90,9 +91,11 @@ h3 {
 }
 ```
 
+
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNTgzNzE0MzQ1LC0xMzg4MDM5
+BnZm1cbiIsImhpc3RvcnkiOlstNjM3NzkzNzU5LC0xMzg4MDM5
 MzMsLTIwNzM2NjUzMjMsLTQ0MTEzODQ1MCwxNjQ2NTg1MDI0LC
 0xNzI4ODE5MTkzLC0xODcxNTkyMTQ0XX0=
 -->
