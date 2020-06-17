@@ -1,10 +1,11 @@
 # HTML and CSS docs
 
 ## OOCSS (Object Oriented Cascading Style Sheets)
-The purpose of OOCSS is to encourage the 
+The purpose of **OOCSS*** is to encourage code reuse, ultimately, faster and more efficient stylesheets that are easier to add and maintain.
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTIwOTE3MDUwMywtMjA3MzY2
-NTMyMywtNDQxMTM4NDUwLDE2NDY1ODUwMjQsLTE3Mjg4MTkxOT
-MsLTE4NzE1OTIxNDRdfQ==
+BnZm1cbiIsImhpc3RvcnkiOls1NjUyOTYwNjYsLTIwNzM2NjUz
+MjMsLTQ0MTEzODQ1MCwxNjQ2NTg1MDI0LC0xNzI4ODE5MTkzLC
+0xODcxNTkyMTQ0XX0=
 -->
