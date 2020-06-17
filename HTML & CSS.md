@@ -64,14 +64,14 @@ After Separating the Structure and Skin:
 ```css
 Before Separating Containers and Content
 
-#sidebar h3 {
+.sidebar h3 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 2em;
   line-height: 1;
   color: #777;
   text-shadow: rgba(0, 0, 0, .3) 3px 3px 6px;
 }
-#footer h3 {
+.footer h3 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.5em;
   line-height: 1;
@@ -79,19 +79,20 @@ Before Separating Containers and Content
   text-shadow: rgba(0, 0, 0, .3) 2px 2px 4px;
 }
 
-After Separating Containers and Content
+After Separating Containers and Content (Short hand property used)
 h3 {
-  font: Arial, Helvetica, sans-serif;
-  font-size: 1.5em;
-  line-height: 1;
+  font: 1.5em/1 Arial, Helvetica, sans-serif;
   color: #777;
   text-shadow: rgba(0, 0, 0, .3) 2px 2px 4px;
+}
+.sidebar h3{
+  font-size: 2em;
 }
 ```
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMzIwMjk4MDc0LC0xMzg4MDM5
+BnZm1cbiIsImhpc3RvcnkiOlstNTgzNzE0MzQ1LC0xMzg4MDM5
 MzMsLTIwNzM2NjUzMjMsLTQ0MTEzODQ1MCwxNjQ2NTg1MDI0LC
 0xNzI4ODE5MTkzLC0xODcxNTkyMTQ0XX0=
 -->
