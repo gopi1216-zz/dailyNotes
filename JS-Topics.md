@@ -2,8 +2,8 @@
 - Description: 
 - Syntax: 
 ```js
-alert('Welcome to Javascript..!');
+alert('Welcome to JavaScript..!');
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzY4NDQ4NCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbODk3NTY0MDY4XX0=
 -->
