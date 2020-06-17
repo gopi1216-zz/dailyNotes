@@ -1,4 +1,4 @@
-## OOCSS (Object Oriented Cascading Style Sheets)
+## OOCSS (Object Oriented CSS)
 The purpose of **OOCSS** is to encourage code reuse, ultimately, faster and more efficient stylesheets that are easier to add and maintain. It works based in two main principles, such as
 
 - Separation of Structure from Skin (Group common styles and add class for them to reuse).
@@ -123,8 +123,8 @@ h3 {
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMjMyNzU5ODA5LDEzOTk5Njcz
-MTUsLTgxMDIwNTQyMSwtNjM3NzkzNzU5LC0xMzg4MDM5MzMsLT
-IwNzM2NjUzMjMsLTQ0MTEzODQ1MCwxNjQ2NTg1MDI0LC0xNzI4
-ODE5MTkzLC0xODcxNTkyMTQ0XX0=
+BnZm1cbiIsImhpc3RvcnkiOls3NzU3NDk3MCwxMzk5OTY3MzE1
+LC04MTAyMDU0MjEsLTYzNzc5Mzc1OSwtMTM4ODAzOTMzLC0yMD
+czNjY1MzIzLC00NDExMzg0NTAsMTY0NjU4NTAyNCwtMTcyODgx
+OTE5MywtMTg3MTU5MjE0NF19
 -->
