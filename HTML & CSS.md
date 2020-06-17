@@ -96,11 +96,11 @@ h3 {
 - Avoid attaching classes to elements in your stylesheet.
 - Except some rare cased, avoid using !important.
 - Use Grids and Flex-Box to create layout.
-- Use moduler class names ( my-20' to 
+- Use moduler class names ( **my-20** to apply margin top and Bottom, **di** for display: inline property ). 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls3OTcxNTgxNjMsLTYzNzc5Mzc1
+BnZm1cbiIsImhpc3RvcnkiOlstMzU2NjAwNjYsLTYzNzc5Mzc1
 OSwtMTM4ODAzOTMzLC0yMDczNjY1MzIzLC00NDExMzg0NTAsMT
 Y0NjU4NTAyNCwtMTcyODgxOTE5MywtMTg3MTU5MjE0NF19
 -->
