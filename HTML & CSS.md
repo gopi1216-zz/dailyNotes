@@ -97,11 +97,12 @@ h3 {
 - Use moduler class names ( **my-20** to apply margin top and Bottom, **di** for display: inline property ). 
 
 
-## BEM
+## BEM (Block, Element and Modifier)
+- **Block** : name shoud be unique throughout the project and  
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMTEwNzQyNjMsLTgxMDIwNTQy
-MSwtNjM3NzkzNzU5LC0xMzg4MDM5MzMsLTIwNzM2NjUzMjMsLT
-Q0MTEzODQ1MCwxNjQ2NTg1MDI0LC0xNzI4ODE5MTkzLC0xODcx
-NTkyMTQ0XX0=
+BnZm1cbiIsImhpc3RvcnkiOlstMTgxODA5MTE2OSwtODEwMjA1
+NDIxLC02Mzc3OTM3NTksLTEzODgwMzkzMywtMjA3MzY2NTMyMy
+wtNDQxMTM4NDUwLDE2NDY1ODUwMjQsLTE3Mjg4MTkxOTMsLTE4
+NzE1OTIxNDRdfQ==
 -->
