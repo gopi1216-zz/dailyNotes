@@ -90,12 +90,14 @@ h3 {
   font-size: 2em;
 }
 ```
-
-
+### Benefits of OOCSS:
+- Faster Websites.
+- Maintainable 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNjM3NzkzNzU5LC0xMzg4MDM5
-MzMsLTIwNzM2NjUzMjMsLTQ0MTEzODQ1MCwxNjQ2NTg1MDI0LC
-0xNzI4ODE5MTkzLC0xODcxNTkyMTQ0XX0=
+BnZm1cbiIsImhpc3RvcnkiOlstNjg5MTAzMzg4LC02Mzc3OTM3
+NTksLTEzODgwMzkzMywtMjA3MzY2NTMyMywtNDQxMTM4NDUwLD
+E2NDY1ODUwMjQsLTE3Mjg4MTkxOTMsLTE4NzE1OTIxNDRdfQ==
+
 -->
