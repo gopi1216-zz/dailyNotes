@@ -6,7 +6,7 @@ The purpose of **OOCSS** is to encourage code reuse, ultimately, faster and more
 - Separation of Structure from Skin (Group common styles and add class for them to reuse).
 - Separation of Cotainers from Content (Don't write the parent based styles to elements).
 
-#### Example 1:
+**Example 1:**
 ```css
 Before Separating the Structure and Skin
 .button {
@@ -100,8 +100,7 @@ h3 {
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMDc5ODY5NjcwLC02Mzc3OTM3
-NTksLTEzODgwMzkzMywtMjA3MzY2NTMyMywtNDQxMTM4NDUwLD
-E2NDY1ODUwMjQsLTE3Mjg4MTkxOTMsLTE4NzE1OTIxNDRdfQ==
-
+BnZm1cbiIsImhpc3RvcnkiOls1NTAyNTE3NDIsLTYzNzc5Mzc1
+OSwtMTM4ODAzOTMzLC0yMDczNjY1MzIzLC00NDExMzg0NTAsMT
+Y0NjU4NTAyNCwtMTcyODgxOTE5MywtMTg3MTU5MjE0NF19
 -->
