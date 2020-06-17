@@ -21,11 +21,11 @@ o-card{}
 m-card__header{}
 -active{}
 ```
-Atoms (a):  represents the simple components that contains single element like button, form input etc.
-Molecules (m): represents the groups of elements or components like form group contains label and input field.
-Organisms (o): represents large complex components made up of many molecules and atom components.
+- Atoms (a):  represents the simple components that contains single element like button, form input etc.
+- Molecules (m): represents the groups of elements or components like form group contains label and input field.
+- Organisms (o): represents large complex components made up of many molecules and atom components.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTcyODgxOTE5MywtMTg3MTU5
-MjE0NF19
+BnZm1cbiIsImhpc3RvcnkiOlsxNjQ2NTg1MDI0LC0xNzI4ODE5
+MTkzLC0xODcxNTkyMTQ0XX0=
 -->
