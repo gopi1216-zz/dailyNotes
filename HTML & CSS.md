@@ -108,12 +108,19 @@ h3 {
 - **Element**: Element represents simple html elements and element names should be unique within block ( like header-logo, header-contact, header-emain etc).
 ```css
 .header-logo{}
+.header-email{}
+.footer-version{}
+.form-row{}
+.form-group{}
 ```
 - **Modifier**: Modifier represents the different state of an Element (like normal background color and onhover background color).
+```css
+.header.
+```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNTg5MzgxODE4LC04MTAyMDU0
-MjEsLTYzNzc5Mzc1OSwtMTM4ODAzOTMzLC0yMDczNjY1MzIzLC
-00NDExMzg0NTAsMTY0NjU4NTAyNCwtMTcyODgxOTE5MywtMTg3
-MTU5MjE0NF19
+BnZm1cbiIsImhpc3RvcnkiOls1NDMxNDE2MjMsLTgxMDIwNTQy
+MSwtNjM3NzkzNzU5LC0xMzg4MDM5MzMsLTIwNzM2NjUzMjMsLT
+Q0MTEzODQ1MCwxNjQ2NTg1MDI0LC0xNzI4ODE5MTkzLC0xODcx
+NTkyMTQ0XX0=
 -->
