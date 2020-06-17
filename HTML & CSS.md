@@ -1,5 +1,3 @@
-# HTML and CSS docs
-
 ## OOCSS (Object Oriented Cascading Style Sheets)
 The purpose of **OOCSS** is to encourage code reuse, ultimately, faster and more efficient stylesheets that are easier to add and maintain. It works based in two main principles, such as
 
@@ -98,10 +96,11 @@ h3 {
 - Use Grids and Flex-Box to create layout.
 - Use moduler class names ( **my-20** to apply margin top and Bottom, **di** for display: inline property ). 
 
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTY3NTc1OTQxOCwtNjM3Nzkz
-NzU5LC0xMzg4MDM5MzMsLTIwNzM2NjUzMjMsLTQ0MTEzODQ1MC
-wxNjQ2NTg1MDI0LC0xNzI4ODE5MTkzLC0xODcxNTkyMTQ0XX0=
+BnZm1cbiIsImhpc3RvcnkiOlstODEwMjA1NDIxLC02Mzc3OTM3
+NTksLTEzODgwMzkzMywtMjA3MzY2NTMyMywtNDQxMTM4NDUwLD
+E2NDY1ODUwMjQsLTE3Mjg4MTkxOTMsLTE4NzE1OTIxNDRdfQ==
 
 -->
