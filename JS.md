@@ -1,4 +1,5 @@
-# JS Docs
+# JS DocDaily JS Notes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQzMTE1MzMsMzAyMTY2MTEyXX0=
+eyJoaXN0b3J5IjpbNjAyMDUxMTcsLTE4NTQzMTE1MzMsMzAyMT
+Y2MTEyXX0=
 -->
