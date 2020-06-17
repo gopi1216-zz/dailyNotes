@@ -94,12 +94,13 @@ h3 {
 - Avoid the descendent selector ( don't use .sidebar h3 as default style ).
 - Avoid ID's as selectors.
 - Avoid attaching classes to elements in your stylesheet.
-- E
+- Except some rare cased, avoid using !important.
+- Use Grids and Flex-Box to create layout.
+- Use moduler class names ( my-20' to 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTg1ODEzMTA0OCwtNjM3Nzkz
-NzU5LC0xMzg4MDM5MzMsLTIwNzM2NjUzMjMsLTQ0MTEzODQ1MC
-wxNjQ2NTg1MDI0LC0xNzI4ODE5MTkzLC0xODcxNTkyMTQ0XX0=
-
+BnZm1cbiIsImhpc3RvcnkiOls3OTcxNTgxNjMsLTYzNzc5Mzc1
+OSwtMTM4ODAzOTMzLC0yMDczNjY1MzIzLC00NDExMzg0NTAsMT
+Y0NjU4NTAyNCwtMTcyODgxOTE5MywtMTg3MTU5MjE0NF19
 -->
