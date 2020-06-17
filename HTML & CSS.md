@@ -60,7 +60,7 @@ After Separating the Structure and Skin:
 }
 ```
 
-### Example 2:
+###  Example 2:
 ```css
 Before Separating Containers and Content
 
@@ -100,7 +100,8 @@ h3 {
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMzU2NjAwNjYsLTYzNzc5Mzc1
-OSwtMTM4ODAzOTMzLC0yMDczNjY1MzIzLC00NDExMzg0NTAsMT
-Y0NjU4NTAyNCwtMTcyODgxOTE5MywtMTg3MTU5MjE0NF19
+BnZm1cbiIsImhpc3RvcnkiOlsxNjA1NjkyODE0LC02Mzc3OTM3
+NTksLTEzODgwMzkzMywtMjA3MzY2NTMyMywtNDQxMTM4NDUwLD
+E2NDY1ODUwMjQsLTE3Mjg4MTkxOTMsLTE4NzE1OTIxNDRdfQ==
+
 -->
