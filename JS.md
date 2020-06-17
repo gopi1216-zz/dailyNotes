@@ -1,4 +1,4 @@
-# Daily JS Notes
+# JS Notes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTM4NjU5MCwzMDIxNjYxMTJdfQ==
+eyJoaXN0b3J5IjpbLTE5NTA4Mzc0OTksMzAyMTY2MTEyXX0=
 -->
