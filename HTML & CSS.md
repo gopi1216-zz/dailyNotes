@@ -91,12 +91,15 @@ h3 {
 }
 ```
 ### Guidelines to implement OOCSS:
-- Avoid the descendent selector 
+- Avoid the descendent selector ( don't use .sidebar h3 as default style ).
+- Avoid ID's as selectors.
+- Avoid attaching classes to elements in your stylesheet.
+- E
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNDQ1Njk0MDU1LC02Mzc3OTM3
-NTksLTEzODgwMzkzMywtMjA3MzY2NTMyMywtNDQxMTM4NDUwLD
-E2NDY1ODUwMjQsLTE3Mjg4MTkxOTMsLTE4NzE1OTIxNDRdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMTg1ODEzMTA0OCwtNjM3Nzkz
+NzU5LC0xMzg4MDM5MzMsLTIwNzM2NjUzMjMsLTQ0MTEzODQ1MC
+wxNjQ2NTg1MDI0LC0xNzI4ODE5MTkzLC0xODcxNTkyMTQ0XX0=
 
 -->
