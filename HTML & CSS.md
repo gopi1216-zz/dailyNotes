@@ -60,7 +60,7 @@ After Separating the Structure and Skin:
 }
 ```
 
-###  Example 2:
+**Example 2:**
 ```css
 Before Separating Containers and Content
 
@@ -90,7 +90,7 @@ h3 {
   font-size: 2em;
 }
 ```
-### Guidelines to implement OOCSS:
+**Guidelines to implement OOCSS :**
 - Avoid the descendent selector ( don't use .sidebar h3 as default style ).
 - Avoid ID's as selectors.
 - Avoid attaching classes to elements in your stylesheet.
@@ -100,7 +100,7 @@ h3 {
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNjA1NjkyODE0LC02Mzc3OTM3
+BnZm1cbiIsImhpc3RvcnkiOlsyMDc5ODY5NjcwLC02Mzc3OTM3
 NTksLTEzODgwMzkzMywtMjA3MzY2NTMyMywtNDQxMTM4NDUwLD
 E2NDY1ODUwMjQsLTE3Mjg4MTkxOTMsLTE4NzE1OTIxNDRdfQ==
 
