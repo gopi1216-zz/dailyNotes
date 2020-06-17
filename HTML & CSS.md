@@ -106,7 +106,7 @@ h3 {
 .form{}
 .footer{}
 ```
-- **Element**: Element represents simple html elements and element names should be unique within block ( like header-logo, header-contact, header-emain etc).
+- **Element**: Element represents simple html elements and element names should be unique within block ( like header-logo, header-contact, header-email etc).
 ```css
 .header-logo{}
 .header-email{}
@@ -123,8 +123,8 @@ h3 {
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls3NzU3NDk3MCwxMzk5OTY3MzE1
-LC04MTAyMDU0MjEsLTYzNzc5Mzc1OSwtMTM4ODAzOTMzLC0yMD
-czNjY1MzIzLC00NDExMzg0NTAsMTY0NjU4NTAyNCwtMTcyODgx
-OTE5MywtMTg3MTU5MjE0NF19
+BnZm1cbiIsImhpc3RvcnkiOls2ODUyOTAwNDAsNzc1NzQ5NzAs
+MTM5OTk2NzMxNSwtODEwMjA1NDIxLC02Mzc3OTM3NTksLTEzOD
+gwMzkzMywtMjA3MzY2NTMyMywtNDQxMTM4NDUwLDE2NDY1ODUw
+MjQsLTE3Mjg4MTkxOTMsLTE4NzE1OTIxNDRdfQ==
 -->
