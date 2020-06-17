@@ -90,13 +90,12 @@ h3 {
   font-size: 2em;
 }
 ```
-### Benefits of OOCSS:
-- Faster Websites.
-- Maintainable 
+### Guidelines to implement OOCSS:
+- Avoid the descendent selector 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNjg5MTAzMzg4LC02Mzc3OTM3
+BnZm1cbiIsImhpc3RvcnkiOlstNDQ1Njk0MDU1LC02Mzc3OTM3
 NTksLTEzODgwMzkzMywtMjA3MzY2NTMyMywtNDQxMTM4NDUwLD
 E2NDY1ODUwMjQsLTE3Mjg4MTkxOTMsLTE4NzE1OTIxNDRdfQ==
 
