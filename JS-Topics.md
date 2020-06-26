@@ -31,10 +31,9 @@ console.log(weight + 20); //This will return 105, casue both are numbers
 var weight = "85";
 console.log(weight + 20); //This will return 8520, cause weight is String and 20 is number.
 ```
-- In the above example ***20*** automatically converted into String this is called coerson. If you perform additin
+- In the above example ***20*** automatically converted into String this is called coerson. If you perform addition between two strings then it's called **Concatenation**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE3OTU1NzUsLTcyNjk0MDAyNywtMT
-U2MTg1NDUxMywtMTk3NzE3NDQzMSwtMjIzNjE1OTk1LDQ1NzQw
-MTg4NSw5MzY5OTE2MzEsMTkzMzU4OTQyNywtNDc2MTgxNTldfQ
-==
+eyJoaXN0b3J5IjpbMTkwMjI5MDQ4NSwtNzI2OTQwMDI3LC0xNT
+YxODU0NTEzLC0xOTc3MTc0NDMxLC0yMjM2MTU5OTUsNDU3NDAx
+ODg1LDkzNjk5MTYzMSwxOTMzNTg5NDI3LC00NzYxODE1OV19
 -->
