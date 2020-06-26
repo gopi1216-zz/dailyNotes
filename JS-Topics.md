@@ -17,8 +17,9 @@ alert('Welcome to JavaScript..!');
 ```js
 var fullName = 'Gopi Jagarlamudi';
 ```
-- In above example **fullName** is variable name and it's holding the value ***Gopi Jagarlamudi
+- In above example ***fullName*** is variable name and it's holding the value ***Gopi Jagarlamudi***.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ0MzM5OTgsOTM2OTkxNjMxLDE5Mz
-M1ODk0MjcsLTQ3NjE4MTU5XX0=
+eyJoaXN0b3J5IjpbNDU3NDAxODg1LDkzNjk5MTYzMSwxOTMzNT
+g5NDI3LC00NzYxODE1OV19
 -->
