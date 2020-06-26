@@ -23,7 +23,7 @@ var fullName = 'Gopi Jagarlamudi';
 fullName = 'JavaScript Developer';
 ```
 - Now the **fullName** variavle refers to new value ***JavaScript Developer***. Once variable is declared no need to use var to change it's value. If it used, then it's re declaration of same variable which is not recommended.
-- In variable we store any kind data like string, number, float or Boolean. Type of variable an be changed based on value assigned to it.
+- In variable we store any kind data like ***String***, ***Number***, ***Float***, ***Double*** and ***Boolean***. Type of variable an be changed based on value assigned to it.
 - If we perform addition between **String** and **Number**, then it return combined String not a number.
 ```js
 var weight = 85;
@@ -33,7 +33,7 @@ console.log(weight + 20); //This will return 8520, cause weight is String and 20
 ```
 - In the above example ***20*** automatically converted into String this is called coerson. If you perform addition between two strings then it's called **Concatenation**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjI5MDQ4NSwtNzI2OTQwMDI3LC0xNT
+eyJoaXN0b3J5IjpbLTgxMjAwNDYxNCwtNzI2OTQwMDI3LC0xNT
 YxODU0NTEzLC0xOTc3MTc0NDMxLC0yMjM2MTU5OTUsNDU3NDAx
 ODg1LDkzNjk5MTYzMSwxOTMzNTg5NDI3LC00NzYxODE1OV19
 -->
