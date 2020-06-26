@@ -22,7 +22,8 @@ var fullName = 'Gopi Jagarlamudi';
 ```js
 fullName = 'JavaScript Developer';
 ```
+- Now the **fullName** variavle refers to new value ***JavaScript Developer***.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTE4MTQ2NSw0NTc0MDE4ODUsOTM2OT
+eyJoaXN0b3J5IjpbLTIyMzYxNTk5NSw0NTc0MDE4ODUsOTM2OT
 kxNjMxLDE5MzM1ODk0MjcsLTQ3NjE4MTU5XX0=
 -->
