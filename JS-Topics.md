@@ -12,7 +12,9 @@ alert('Welcome to JavaScript..!');
 ```
 
 ## Variables :
+- Variable is just container holding some value with name. 
+- **var**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2OTkxNjMxLDE5MzM1ODk0MjcsLTQ3Nj
-E4MTU5XX0=
+eyJoaXN0b3J5IjpbLTc2OTA3MTU4Miw5MzY5OTE2MzEsMTkzMz
+U4OTQyNywtNDc2MTgxNTldfQ==
 -->
