@@ -13,11 +13,12 @@ alert('Welcome to JavaScript..!');
 
 ## Variables :
 - Variable is just container holding some value with name. 
-- **'var'** is used to create a variable
+- **'var'** is used to create a variable followed by name of the variable like below example.
 ```js
 var fullName = 'Gopi Jagarlamudi';
 ```
+- In above example **fullName** is variable name and it's holding the value ***Gopi Jagarlamudi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTgwMzI4MTEsOTM2OTkxNjMxLDE5Mz
+eyJoaXN0b3J5IjpbLTEyNTQ0MzM5OTgsOTM2OTkxNjMxLDE5Mz
 M1ODk0MjcsLTQ3NjE4MTU5XX0=
 -->
