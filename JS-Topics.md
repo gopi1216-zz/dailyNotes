@@ -22,9 +22,9 @@ var fullName = 'Gopi Jagarlamudi';
 ```js
 fullName = 'JavaScript Developer';
 ```
-- Now the **fullName** variavle refers to new value ***JavaScript Developer***. Once variable is declared no need to use var to change it's value. If it used, then 
+- Now the **fullName** variavle refers to new value ***JavaScript Developer***. Once variable is declared no need to use var to change it's value. If it used, then it's re declaration of same variable which is not recommended.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE4NTQ1MTMsLTE5NzcxNzQ0MzEsLT
-IyMzYxNTk5NSw0NTc0MDE4ODUsOTM2OTkxNjMxLDE5MzM1ODk0
-MjcsLTQ3NjE4MTU5XX0=
+eyJoaXN0b3J5IjpbLTcyNjk0MDAyNywtMTU2MTg1NDUxMywtMT
+k3NzE3NDQzMSwtMjIzNjE1OTk1LDQ1NzQwMTg4NSw5MzY5OTE2
+MzEsMTkzMzU4OTQyNywtNDc2MTgxNTldfQ==
 -->
