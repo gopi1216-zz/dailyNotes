@@ -23,8 +23,11 @@ var fullName = 'Gopi Jagarlamudi';
 fullName = 'JavaScript Developer';
 ```
 - Now the **fullName** variavle refers to new value ***JavaScript Developer***. Once variable is declared no need to use var to change it's value. If it used, then it's re declaration of same variable which is not recommended.
+- In variable we store any kind data like string, number, float or Boolean. Type of variable an be changed based on value assigned to it.
+- If we per
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjk0MDAyNywtMTU2MTg1NDUxMywtMT
-k3NzE3NDQzMSwtMjIzNjE1OTk1LDQ1NzQwMTg4NSw5MzY5OTE2
-MzEsMTkzMzU4OTQyNywtNDc2MTgxNTldfQ==
+eyJoaXN0b3J5IjpbLTE2ODk1MjE0NTEsLTcyNjk0MDAyNywtMT
+U2MTg1NDUxMywtMTk3NzE3NDQzMSwtMjIzNjE1OTk1LDQ1NzQw
+MTg4NSw5MzY5OTE2MzEsMTkzMzU4OTQyNywtNDc2MTgxNTldfQ
+==
 -->
