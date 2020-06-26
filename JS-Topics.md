@@ -24,9 +24,15 @@ fullName = 'JavaScript Developer';
 ```
 - Now the **fullName** variavle refers to new value ***JavaScript Developer***. Once variable is declared no need to use var to change it's value. If it used, then it's re declaration of same variable which is not recommended.
 - In variable we store any kind data like string, number, float or Boolean. Type of variable an be changed based on value assigned to it.
-- If we perform addition between **String** and **Number**, then it return combined String not a number
+- If we perform addition between **String** and **Number**, then it return combined String not a number.
+```js
+var weight = 85;
+console.log(weight + 20); //This will return 105, casue both are numbers
+var weight = "85";
+console.log(weight + 20); //This will return 85
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzI0OTg4NzcsLTcyNjk0MDAyNywtMT
+eyJoaXN0b3J5IjpbLTE2NDM0OTc0NDMsLTcyNjk0MDAyNywtMT
 U2MTg1NDUxMywtMTk3NzE3NDQzMSwtMjIzNjE1OTk1LDQ1NzQw
 MTg4NSw5MzY5OTE2MzEsMTkzMzU4OTQyNywtNDc2MTgxNTldfQ
 ==
