@@ -29,10 +29,10 @@ fullName = 'JavaScript Developer';
 var weight = 85;
 console.log(weight + 20); //This will return 105, casue both are numbers
 var weight = "85";
-console.log(weight + 20); //This will return 85
+console.log(weight + 20); //This will return 8520, cause weight is String and 20(Automatically converted into String this is called coerson) is number. This process is called Concatination.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM0OTc0NDMsLTcyNjk0MDAyNywtMT
+eyJoaXN0b3J5IjpbLTEwNzY3MzY0MTQsLTcyNjk0MDAyNywtMT
 U2MTg1NDUxMywtMTk3NzE3NDQzMSwtMjIzNjE1OTk1LDQ1NzQw
 MTg4NSw5MzY5OTE2MzEsMTkzMzU4OTQyNywtNDc2MTgxNTldfQ
 ==
