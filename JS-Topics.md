@@ -18,8 +18,11 @@ alert('Welcome to JavaScript..!');
 var fullName = 'Gopi Jagarlamudi';
 ```
 - Whenever the JS encounters **fullName**, JS knows that it's a variable refers to ***Gopi Jagarlamudi***.
-- We can also change 
+- We can also change variables to new value like below
+```js
+fullName = 'Ja';
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNDY4NzE2LDQ1NzQwMTg4NSw5MzY5OT
-E2MzEsMTkzMzU4OTQyNywtNDc2MTgxNTldfQ==
+eyJoaXN0b3J5IjpbMTEzNTIwNTExMyw0NTc0MDE4ODUsOTM2OT
+kxNjMxLDE5MzM1ODk0MjcsLTQ3NjE4MTU5XX0=
 -->
