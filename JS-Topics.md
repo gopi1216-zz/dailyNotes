@@ -20,9 +20,9 @@ var fullName = 'Gopi Jagarlamudi';
 - Whenever the JS encounters **fullName**, JS knows that it's a variable refers to ***Gopi Jagarlamudi***.
 - We can also change variables to new value like below
 ```js
-fullName = 'Ja';
+fullName = 'JavaScript Developer';
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTIwNTExMyw0NTc0MDE4ODUsOTM2OT
+eyJoaXN0b3J5IjpbMTc0MTE4MTQ2NSw0NTc0MDE4ODUsOTM2OT
 kxNjMxLDE5MzM1ODk0MjcsLTQ3NjE4MTU5XX0=
 -->
