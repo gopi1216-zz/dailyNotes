@@ -33,10 +33,13 @@ console.log(weight + 20); //This will return 8520, cause weight is String and 20
 ```
 - In the above example ***20*** automatically converted into String this is called coerson. If you perform addition between two strings then it's called **Concatenation**.
 
-### Variable naming rules
+#### Variable naming rules : ####
+- Should not enclosed in quotes.
+- Should not start with number.
+- Not a Java
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM0MzkzMDQsLTgxMjAwNDYxNCwtNz
-I2OTQwMDI3LC0xNTYxODU0NTEzLC0xOTc3MTc0NDMxLC0yMjM2
-MTU5OTUsNDU3NDAxODg1LDkzNjk5MTYzMSwxOTMzNTg5NDI3LC
-00NzYxODE1OV19
+eyJoaXN0b3J5IjpbMzczOTg5MzM4LC04MTIwMDQ2MTQsLTcyNj
+k0MDAyNywtMTU2MTg1NDUxMywtMTk3NzE3NDQzMSwtMjIzNjE1
+OTk1LDQ1NzQwMTg4NSw5MzY5OTE2MzEsMTkzMzU4OTQyNywtND
+c2MTgxNTldfQ==
 -->
