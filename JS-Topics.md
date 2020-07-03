@@ -22,7 +22,7 @@ var fullName = 'Gopi Jagarlamudi';
 ```js
 fullName = 'JavaScript Developer';
 ```
-- Now the **fullName** variavle refers to new value ***JavaScript Developer***. Once variable is declared no need to use var to change it's value. If it used, then it's re declaration of same variable which is not recommended.
+- Now the **fullName** variable refers to new value ***JavaScript Developer***. Once variable is declared no need to use var to change it's value. If it used, then it's re declaration of same variable which is not recommended.
 - In variable we store any kind data like ***String***, ***Number***, ***Float***, ***Double*** and ***Boolean***. Type of variable an be changed based on value assigned to it.
 - If we perform addition between **String** and **Number**, then it return combined String not a number.
 ```js
@@ -38,10 +38,12 @@ console.log(weight + 20); //This will return 8520, cause weight is String and 20
 - Should not start with number.
 - Not a JavaScript keyword which is having proper meaning.
 - It Should be short and informative and as recommended it should be in camel case (like **fullname**, **age**, **personAge**).
-- Will start with ***$*** and **_** (like $personName, _personName)
+- Will start with ***$*** and **_** (like $personName, _personName).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY5Njg2MTMsLTgxMjAwNDYxNCwtNz
-I2OTQwMDI3LC0xNTYxODU0NTEzLC0xOTc3MTc0NDMxLC0yMjM2
-MTU5OTUsNDU3NDAxODg1LDkzNjk5MTYzMSwxOTMzNTg5NDI3LC
-00NzYxODE1OV19
+eyJoaXN0b3J5IjpbMTg5NDQwNjg3NSwtODEyMDA0NjE0LC03Mj
+Y5NDAwMjcsLTE1NjE4NTQ1MTMsLTE5NzcxNzQ0MzEsLTIyMzYx
+NTk5NSw0NTc0MDE4ODUsOTM2OTkxNjMxLDE5MzM1ODk0MjcsLT
+Q3NjE4MTU5XX0=
 -->
