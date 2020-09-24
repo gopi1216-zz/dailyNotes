@@ -53,12 +53,16 @@ console.log('Updated age:' + age * 10); //This will return 100
 console.log('Updated age:' + age / 10); //This will return 1
 console.log('Updated age:' + age % 10); //This will return 0
 ```
-- There few more new expression available in JS like **increment** and **decrement**. Each two different 
+- There few more new expression available in JS like **increment** and **decrement**. Each two different variations like post increment, pre increment, pre decrement and post decrement.
+```js
+var age = 18;
+age++; //
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4NTAwODYzLC0xOTkxODc5NjMwLDEyOT
-MzODI1Myw5OTE2NDAyMDUsMTY2MDYwMTA1NiwtODEyMDA0NjE0
-LC03MjY5NDAwMjcsLTE1NjE4NTQ1MTMsLTE5NzcxNzQ0MzEsLT
-IyMzYxNTk5NSw0NTc0MDE4ODUsOTM2OTkxNjMxLDE5MzM1ODk0
-MjcsLTQ3NjE4MTU5XX0=
+eyJoaXN0b3J5IjpbLTE4NTI3MjI5MzcsLTE5OTE4Nzk2MzAsMT
+I5MzM4MjUzLDk5MTY0MDIwNSwxNjYwNjAxMDU2LC04MTIwMDQ2
+MTQsLTcyNjk0MDAyNywtMTU2MTg1NDUxMywtMTk3NzE3NDQzMS
+wtMjIzNjE1OTk1LDQ1NzQwMTg4NSw5MzY5OTE2MzEsMTkzMzU4
+OTQyNywtNDc2MTgxNTldfQ==
 -->
