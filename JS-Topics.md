@@ -56,13 +56,13 @@ console.log('Updated age:' + age % 10); //This will return 0
 - There few more new expression available in JS like **increment** and **decrement**. Each two different variations like post increment, pre increment, pre decrement and post decrement.
 ```js
 var age = 18;
-age++; //This will return 10 and value will be updated 11 after that.
+age++; //This will return 10 and value will be updated value to 11.
 ++age; //This will return 11 as it will be incremented and return the value.
 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDc3MjY3NCwtMTk5MTg3OTYzMCwxMj
+eyJoaXN0b3J5IjpbMjEwOTgzNDEzNSwtMTk5MTg3OTYzMCwxMj
 kzMzgyNTMsOTkxNjQwMjA1LDE2NjA2MDEwNTYsLTgxMjAwNDYx
 NCwtNzI2OTQwMDI3LC0xNTYxODU0NTEzLC0xOTc3MTc0NDMxLC
 0yMjM2MTU5OTUsNDU3NDAxODg1LDkzNjk5MTYzMSwxOTMzNTg5
