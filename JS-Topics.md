@@ -47,7 +47,7 @@ console.log(weight + 20); //This will return 8520, cause weight is String and 20
 ```js
 var age = 10;
 
-console.log('Updated age:' + age + 10);
+console.log('Updated age:', age + 10); //This will return 20, if i use + before age then it will return the 
 console.log('Updated age:' + age - 4);
 console.log('Updated age:' + age * 10);
 console.log('Updated age:' + age / 10);
@@ -55,7 +55,7 @@ console.log('Updated age:' + age % 10);
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk5NTUyNjksMTI5MzM4MjUzLDk5MT
+eyJoaXN0b3J5IjpbLTE1NzQ1MTAxNjEsMTI5MzM4MjUzLDk5MT
 Y0MDIwNSwxNjYwNjAxMDU2LC04MTIwMDQ2MTQsLTcyNjk0MDAy
 NywtMTU2MTg1NDUxMywtMTk3NzE3NDQzMSwtMjIzNjE1OTk1LD
 Q1NzQwMTg4NSw5MzY5OTE2MzEsMTkzMzU4OTQyNywtNDc2MTgx
