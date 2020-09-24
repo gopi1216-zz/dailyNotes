@@ -59,13 +59,13 @@ var age = 18;
 age++; //This will return 10 and value will be updated value to 11.
 ++age; //This will return 11 as it will be incremented and return the value.
 age--; //First it will return(11) and decrement(10) the value.
---age; //First it will decrement the value(9) and return the cl
+--age; //First it will decrement the value(9) and return the value(9);
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjU4NTczNiwtMTM4MjQ2NzUyOSwtMT
-k5MTg3OTYzMCwxMjkzMzgyNTMsOTkxNjQwMjA1LDE2NjA2MDEw
-NTYsLTgxMjAwNDYxNCwtNzI2OTQwMDI3LC0xNTYxODU0NTEzLC
-0xOTc3MTc0NDMxLC0yMjM2MTU5OTUsNDU3NDAxODg1LDkzNjk5
-MTYzMSwxOTMzNTg5NDI3LC00NzYxODE1OV19
+eyJoaXN0b3J5IjpbNTA3OTE4ODczLC0xMzgyNDY3NTI5LC0xOT
+kxODc5NjMwLDEyOTMzODI1Myw5OTE2NDAyMDUsMTY2MDYwMTA1
+NiwtODEyMDA0NjE0LC03MjY5NDAwMjcsLTE1NjE4NTQ1MTMsLT
+E5NzcxNzQ0MzEsLTIyMzYxNTk5NSw0NTc0MDE4ODUsOTM2OTkx
+NjMxLDE5MzM1ODk0MjcsLTQ3NjE4MTU5XX0=
 -->
