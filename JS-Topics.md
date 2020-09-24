@@ -58,13 +58,13 @@ console.log('Updated age:' + age % 10); //This will return 0
 var age = 18;
 age++; //This will return 10 and value will be updated value to 11.
 ++age; //This will return 11 as it will be incremented and return the value.
-
+age--; //First it will decrement 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTgzNDEzNSwtMTk5MTg3OTYzMCwxMj
-kzMzgyNTMsOTkxNjQwMjA1LDE2NjA2MDEwNTYsLTgxMjAwNDYx
-NCwtNzI2OTQwMDI3LC0xNTYxODU0NTEzLC0xOTc3MTc0NDMxLC
-0yMjM2MTU5OTUsNDU3NDAxODg1LDkzNjk5MTYzMSwxOTMzNTg5
-NDI3LC00NzYxODE1OV19
+eyJoaXN0b3J5IjpbLTEzODI0Njc1MjksLTE5OTE4Nzk2MzAsMT
+I5MzM4MjUzLDk5MTY0MDIwNSwxNjYwNjAxMDU2LC04MTIwMDQ2
+MTQsLTcyNjk0MDAyNywtMTU2MTg1NDUxMywtMTk3NzE3NDQzMS
+wtMjIzNjE1OTk1LDQ1NzQwMTg4NSw5MzY5OTE2MzEsMTkzMzU4
+OTQyNywtNDc2MTgxNTldfQ==
 -->
