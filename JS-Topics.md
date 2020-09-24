@@ -47,17 +47,17 @@ console.log(weight + 20); //This will return 8520, cause weight is String and 20
 ```js
 var age = 10;
 
-console.log('Updated age:', age + 10); //This will return 20, if i use + before age then it will return the 
-console.log('Updated age:' + age - 4);
-console.log('Updated age:' + age * 10);
-console.log('Updated age:' + age / 10);
+console.log('Updated age:', age + 10); //This will return 20, if i use + before age then it will return the 1010 as it will do the implicit coersion.
+console.log('Updated age:', age - 4); //This will return 6, if i use + before age then it will return the NaN as it will do the implicit coersion.
+console.log('Updated age:' + age * 10); //This will return 100
+console.log('Updated age:' + age / 10); //This will return 
 console.log('Updated age:' + age % 10);
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ1MTAxNjEsMTI5MzM4MjUzLDk5MT
-Y0MDIwNSwxNjYwNjAxMDU2LC04MTIwMDQ2MTQsLTcyNjk0MDAy
-NywtMTU2MTg1NDUxMywtMTk3NzE3NDQzMSwtMjIzNjE1OTk1LD
-Q1NzQwMTg4NSw5MzY5OTE2MzEsMTkzMzU4OTQyNywtNDc2MTgx
-NTldfQ==
+eyJoaXN0b3J5IjpbLTc4MTk2Mjk3NywxMjkzMzgyNTMsOTkxNj
+QwMjA1LDE2NjA2MDEwNTYsLTgxMjAwNDYxNCwtNzI2OTQwMDI3
+LC0xNTYxODU0NTEzLC0xOTc3MTc0NDMxLC0yMjM2MTU5OTUsND
+U3NDAxODg1LDkzNjk5MTYzMSwxOTMzNTg5NDI3LC00NzYxODE1
+OV19
 -->
