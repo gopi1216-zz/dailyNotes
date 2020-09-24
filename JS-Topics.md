@@ -37,14 +37,14 @@ console.log(weight + 20); //This will return 8520, cause weight is String and 20
 - Should not enclosed in quotes (If it is wrapped inside quotes then it's **String**).
 - Should not start with number.
 - Not a JavaScript(language inbuilt keywords like var, let... etc ) keyword which is having proper meaning.
-- It Should be short and informative and as recommended it should be in camel case (like **fullname**, **age**, **personAge**, **_fullName**, ).
+- It Should be short and informative and as recommended it should be in camel case (like **fullname**, **age**, **personAge**, **_fullName**).
 - Will start with ***$*** and **_** (like $personName, _personName).
 
 
 ## Mathematical Operations
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzY2NjY4NiwxNjYwNjAxMDU2LC04MT
+eyJoaXN0b3J5IjpbLTc2NjM1Njg3NCwxNjYwNjAxMDU2LC04MT
 IwMDQ2MTQsLTcyNjk0MDAyNywtMTU2MTg1NDUxMywtMTk3NzE3
 NDQzMSwtMjIzNjE1OTk1LDQ1NzQwMTg4NSw5MzY5OTE2MzEsMT
 kzMzU4OTQyNywtNDc2MTgxNTldfQ==
