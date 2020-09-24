@@ -46,11 +46,17 @@ console.log(weight + 20); //This will return 8520, cause weight is String and 20
 - Apart from one new operation called **Modulus**, it will return the remainder as result of division operation.
 ```js
 var age = 10;
+
 console.log('Updated age:' + age + 10);
+console.log('Updated age:' + age - 4);
+console.log('Updated age:' + age * 10);
+console.log('Updated age:' + age / 10);
+console.log('Updated age:' + age % 10);
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzM4MjUzLDk5MTY0MDIwNSwxNjYwNj
-AxMDU2LC04MTIwMDQ2MTQsLTcyNjk0MDAyNywtMTU2MTg1NDUx
-MywtMTk3NzE3NDQzMSwtMjIzNjE1OTk1LDQ1NzQwMTg4NSw5Mz
-Y5OTE2MzEsMTkzMzU4OTQyNywtNDc2MTgxNTldfQ==
+eyJoaXN0b3J5IjpbMjA0Mjg3MzU0OSwxMjkzMzgyNTMsOTkxNj
+QwMjA1LDE2NjA2MDEwNTYsLTgxMjAwNDYxNCwtNzI2OTQwMDI3
+LC0xNTYxODU0NTEzLC0xOTc3MTc0NDMxLC0yMjM2MTU5OTUsND
+U3NDAxODg1LDkzNjk5MTYzMSwxOTMzNTg5NDI3LC00NzYxODE1
+OV19
 -->
