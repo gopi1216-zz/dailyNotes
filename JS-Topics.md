@@ -53,10 +53,11 @@ console.log('Updated age:' + age * 10);
 console.log('Updated age:' + age / 10);
 console.log('Updated age:' + age % 10);
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Mjg3MzU0OSwxMjkzMzgyNTMsOTkxNj
-QwMjA1LDE2NjA2MDEwNTYsLTgxMjAwNDYxNCwtNzI2OTQwMDI3
-LC0xNTYxODU0NTEzLC0xOTc3MTc0NDMxLC0yMjM2MTU5OTUsND
-U3NDAxODg1LDkzNjk5MTYzMSwxOTMzNTg5NDI3LC00NzYxODE1
-OV19
+eyJoaXN0b3J5IjpbLTE4NTk5NTUyNjksMTI5MzM4MjUzLDk5MT
+Y0MDIwNSwxNjYwNjAxMDU2LC04MTIwMDQ2MTQsLTcyNjk0MDAy
+NywtMTU2MTg1NDUxMywtMTk3NzE3NDQzMSwtMjIzNjE1OTk1LD
+Q1NzQwMTg4NSw5MzY5OTE2MzEsMTkzMzU4OTQyNywtNDc2MTgx
+NTldfQ==
 -->
