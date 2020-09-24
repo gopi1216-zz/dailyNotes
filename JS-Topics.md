@@ -43,10 +43,10 @@ console.log(weight + 20); //This will return 8520, cause weight is String and 20
 
 ## Mathematical Expressions
 - As we came from computer background, we may get familiar with basic operations like **Addition**, **Subtraction**, **Multiplication** and **Division**. Same operation can used here as studied earlier.
-- Apart from one new operation called **Modulus
+- Apart from one new operation called **Modulus**, it will return the reminder
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5NzQzMjYzLDk5MTY0MDIwNSwxNjYwNj
-AxMDU2LC04MTIwMDQ2MTQsLTcyNjk0MDAyNywtMTU2MTg1NDUx
-MywtMTk3NzE3NDQzMSwtMjIzNjE1OTk1LDQ1NzQwMTg4NSw5Mz
-Y5OTE2MzEsMTkzMzU4OTQyNywtNDc2MTgxNTldfQ==
+eyJoaXN0b3J5IjpbLTIzOTgwNzQwNyw5OTE2NDAyMDUsMTY2MD
+YwMTA1NiwtODEyMDA0NjE0LC03MjY5NDAwMjcsLTE1NjE4NTQ1
+MTMsLTE5NzcxNzQ0MzEsLTIyMzYxNTk5NSw0NTc0MDE4ODUsOT
+M2OTkxNjMxLDE5MzM1ODk0MjcsLTQ3NjE4MTU5XX0=
 -->
