@@ -41,11 +41,11 @@ console.log(weight + 20); //This will return 8520, cause weight is String and 20
 - Will start with ***$*** and **_** (like $personName, **_personName**).
 
 
-## Mathematical Operations
+## Mathematical Expressions
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTI1ODMxNCwxNjYwNjAxMDU2LC04MT
-IwMDQ2MTQsLTcyNjk0MDAyNywtMTU2MTg1NDUxMywtMTk3NzE3
-NDQzMSwtMjIzNjE1OTk1LDQ1NzQwMTg4NSw5MzY5OTE2MzEsMT
-kzMzU4OTQyNywtNDc2MTgxNTldfQ==
+eyJoaXN0b3J5IjpbOTkxNjQwMjA1LDE2NjA2MDEwNTYsLTgxMj
+AwNDYxNCwtNzI2OTQwMDI3LC0xNTYxODU0NTEzLC0xOTc3MTc0
+NDMxLC0yMjM2MTU5OTUsNDU3NDAxODg1LDkzNjk5MTYzMSwxOT
+MzNTg5NDI3LC00NzYxODE1OV19
 -->
