@@ -42,10 +42,10 @@ console.log(weight + 20); //This will return 8520, cause weight is String and 20
 
 
 ## Mathematical Expressions
-- 
+- As we came from computer background, we may get familiar with basic operations like **Addition**, **Subtraction**, **Multiplication
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxNjQwMjA1LDE2NjA2MDEwNTYsLTgxMj
-AwNDYxNCwtNzI2OTQwMDI3LC0xNTYxODU0NTEzLC0xOTc3MTc0
-NDMxLC0yMjM2MTU5OTUsNDU3NDAxODg1LDkzNjk5MTYzMSwxOT
-MzNTg5NDI3LC00NzYxODE1OV19
+eyJoaXN0b3J5IjpbLTExMjc3ODYwOSw5OTE2NDAyMDUsMTY2MD
+YwMTA1NiwtODEyMDA0NjE0LC03MjY5NDAwMjcsLTE1NjE4NTQ1
+MTMsLTE5NzcxNzQ0MzEsLTIyMzYxNTk5NSw0NTc0MDE4ODUsOT
+M2OTkxNjMxLDE5MzM1ODk0MjcsLTQ3NjE4MTU5XX0=
 -->
