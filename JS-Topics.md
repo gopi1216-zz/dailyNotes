@@ -61,11 +61,12 @@ age++; //This will return 10 and value will be updated value to 11.
 age--; //First it will return(11) and decrement(10) the value.
 --age; //First it will decrement the value(9) and return the value(9);
 ```
-
+- '+' operator used to combine two strings or variables.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3OTE4ODczLC0xMzgyNDY3NTI5LC0xOT
-kxODc5NjMwLDEyOTMzODI1Myw5OTE2NDAyMDUsMTY2MDYwMTA1
-NiwtODEyMDA0NjE0LC03MjY5NDAwMjcsLTE1NjE4NTQ1MTMsLT
-E5NzcxNzQ0MzEsLTIyMzYxNTk5NSw0NTc0MDE4ODUsOTM2OTkx
-NjMxLDE5MzM1ODk0MjcsLTQ3NjE4MTU5XX0=
+eyJoaXN0b3J5IjpbMTU2MjMwNjU5OCw1MDc5MTg4NzMsLTEzOD
+I0Njc1MjksLTE5OTE4Nzk2MzAsMTI5MzM4MjUzLDk5MTY0MDIw
+NSwxNjYwNjAxMDU2LC04MTIwMDQ2MTQsLTcyNjk0MDAyNywtMT
+U2MTg1NDUxMywtMTk3NzE3NDQzMSwtMjIzNjE1OTk1LDQ1NzQw
+MTg4NSw5MzY5OTE2MzEsMTkzMzU4OTQyNywtNDc2MTgxNTldfQ
+==
 -->
