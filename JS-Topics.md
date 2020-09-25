@@ -63,13 +63,13 @@ age--; //First it will return(11) and decrement(10) the value.
 ```
 - '+' operator used to combine two strings or variables.
 
-## Prompts
-
+## Conditional statements (if-else)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDAyNTA4NDcsMTU2MjMwNjU5OCw1MD
-c5MTg4NzMsLTEzODI0Njc1MjksLTE5OTE4Nzk2MzAsMTI5MzM4
-MjUzLDk5MTY0MDIwNSwxNjYwNjAxMDU2LC04MTIwMDQ2MTQsLT
-cyNjk0MDAyNywtMTU2MTg1NDUxMywtMTk3NzE3NDQzMSwtMjIz
-NjE1OTk1LDQ1NzQwMTg4NSw5MzY5OTE2MzEsMTkzMzU4OTQyNy
-wtNDc2MTgxNTldfQ==
+eyJoaXN0b3J5IjpbMTgwNzMzNzI4NywtMTUwMDI1MDg0NywxNT
+YyMzA2NTk4LDUwNzkxODg3MywtMTM4MjQ2NzUyOSwtMTk5MTg3
+OTYzMCwxMjkzMzgyNTMsOTkxNjQwMjA1LDE2NjA2MDEwNTYsLT
+gxMjAwNDYxNCwtNzI2OTQwMDI3LC0xNTYxODU0NTEzLC0xOTc3
+MTc0NDMxLC0yMjM2MTU5OTUsNDU3NDAxODg1LDkzNjk5MTYzMS
+wxOTMzNTg5NDI3LC00NzYxODE1OV19
 -->
